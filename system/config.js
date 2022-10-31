@@ -1,5 +1,5 @@
 // Owner number
-global.owner = '6288703379708'
+global.owner = '6288703779708'
 // Owner name
 global.owner_name = 'Teguh Developer'
 // Maximum upload file size limit (Default : 50 MB)
